@@ -86,5 +86,5 @@ while True:
 ## Define how a player can win
     if currentRoom == 'Courtyard' and 'basketball' in inventory:
         showStatus()
-        print('You take the basketball and throw it into the hoop. From above you start to hear the sound of thunder that is building intensely. You look up to see lights overhead. The thunder changes to crowd noise. You are in the middle of Madison Square Garden.  You have just made a game winning shot to defeat the New York Knicks in overtime. YOU !')
+        print('You take the basketball and throw it into the hoop. From above you start to hear the sound of thunder that is building intensely. You look up to see lights overhead. The thunder changes to crowd noise. You are in the middle of Madison Square Garden.  You have just made a game winning shot to defeat the New York Knicks in overtime. YOU WIN!')
         break

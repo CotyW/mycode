@@ -41,7 +41,6 @@ rooms = {
     },
     'Courtyard': {
         'west': 'Garden',
-        'item': 'basketball hoop',
         'description': descriptions['Courtyard'],
     }
 }
